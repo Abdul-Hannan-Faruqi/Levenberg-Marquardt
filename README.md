@@ -27,4 +27,4 @@ The results of the run get appended to the file `log.dat`
 ***
 ### Data format in `log.dat`   
 The following properties for each run are stored in the file, delimited by a space   
-Line search startegy &nbsp;&nbsp; gamma &nbsp;&nbsp; mu_1 &nbsp;&nbsp; mu_2 &nbsp;&nbsp; Function value at convergence &nbsp;&nbsp; Number of iterations &nbsp;&nbsp; Solution time
+Line-search-startegy &nbsp;&nbsp; gamma &nbsp;&nbsp; mu_1 &nbsp;&nbsp; mu_2 &nbsp;&nbsp; Function-value-at-convergence &nbsp;&nbsp; Number-of-iterations &nbsp;&nbsp; Solution-time
