@@ -25,6 +25,6 @@ It takes four runtime arguments defined as
 The results of the run get appended to the file `log.dat`
 
 ***
-Data format in `log.dat`   
+### Data format in `log.dat`   
 The following properties for each run are stored in the file, delimited by a space   
-Line search startegy \t gamma \t mu_1 \t mu_2 \t Function value at convergence \t Number of iterations \t Solution time
+Line search startegy &nbsp;&nbsp; gamma &nbsp;&nbsp; mu_1 &nbsp;&nbsp; mu_2 &nbsp;&nbsp; Function value at convergence &nbsp;&nbsp; Number of iterations &nbsp;&nbsp; Solution time
